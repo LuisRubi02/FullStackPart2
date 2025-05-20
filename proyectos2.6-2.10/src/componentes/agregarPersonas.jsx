@@ -1,3 +1,4 @@
+
 export const AgregarPersonas = ({agregarNombre,setNewName,setNewNumber})=>{
     return(
         <form onSubmit={agregarNombre}>
